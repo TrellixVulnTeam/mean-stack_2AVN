@@ -1,0 +1,18 @@
+:host {
+  display: block;
+  margin-top: 16px;
+}
+
+.info-text {
+  text-align: center;
+}
+
+mat-expansion-panel-header {
+  font-weight: bold;
+  Font-size: 16px;
+}
+
+p {
+  color: #585858;
+  font-size: 14px;
+}
